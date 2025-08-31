@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.jaxb/1">
+    <module_version install_time="1733321912697" last="true" origin="installer" specification_version="1.56">
+        <file crc="3971039400" name="config/Modules/org-netbeans-modules-xml-jaxb.xml"/>
+        <file crc="1410986482" name="modules/org-netbeans-modules-xml-jaxb.jar"/>
+    </module_version>
+</module>
