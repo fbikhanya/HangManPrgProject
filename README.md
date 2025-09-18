@@ -20,6 +20,6 @@ Aina Kakonda- 223098663
 ## Features 
 - Random word selection from a word list
 - Multi-player mode 
-- PLayer has 6-8 lives to guess the word
+- Player has 6-8 lives to guess the word
 - Tracks correct and wrong guesses
 - Simple ASCII art hangman drawing
