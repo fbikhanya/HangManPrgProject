@@ -1,11 +1,13 @@
 # Hangman Game
 
-This project is a simple Hangman game made for our assignment.
-The player must guess the hidden word by entering letters.
-Each wrong guess reduces the number of lives until the game is lost.
-The game shows a win/lose screen and allows the player to play again. 
+## Project description
+This is a console-based HangMan game created by our group for our assignment.
+The player tries to guess the hidden word by suggesting letters.
+The game keeps track of lives, wrong guesses, and shows a win/lose message.
+We also added a word list and a difficulty system.
 
-Group members:
+
+## Group members:
 
 Kwakhanya Mhlongo- 224092154
 
@@ -14,3 +16,10 @@ Kokule Werner- 223081930
 Manvelito Zaaruka- 224039571
 
 Aina Kakonda- 223098663
+
+## Features 
+- Random word selection from a word list
+- Multi-player mode 
+- PLayer has 6-8 lives to guess the word
+- Tracks correct and wrong guesses
+- Simple ASCII art hangman drawing
